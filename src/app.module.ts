@@ -4,7 +4,7 @@ import { HealthController } from './health.controller';
 import { UserModule } from './module/user/user.module';
 import { ResponseInterceptor } from './util/interceptor';
 import { ConfigModule } from '@nestjs/config';
-import config from './coonfig/config';
+import config from './config/config';
 
 @Module({
   imports: [

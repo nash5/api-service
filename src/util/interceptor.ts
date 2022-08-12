@@ -1,14 +1,9 @@
 import {
-  ArgumentsHost,
   CallHandler,
-  Catch,
-  ExceptionFilter,
   ExecutionContext,
-  HttpException,
   Injectable,
   NestInterceptor,
 } from '@nestjs/common';
-import { FastifyReply } from 'fastify';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 

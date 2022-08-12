@@ -1,13 +1,13 @@
 [
   {
-    "id": "42a3c518-6ecd-4c15-a6fe-1de570a7aaa5",
+    "id": "3307ba6f-6ff2-4efc-991f-5a850caa11e5",
     "name": "string",
     "height": 0,
     "mass": 0,
     "hair_color": "string",
     "skin_color": "string",
     "eye_color": "string",
-    "date_of_birth": "2022-08-11T12:40:19.773Z",
+    "date_of_birth": "2022-08-12T14:13:54.151Z",
     "gender": "MALE"
   }
 ]
